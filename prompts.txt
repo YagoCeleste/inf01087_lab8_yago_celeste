@@ -1,0 +1,4 @@
+1. O que é recursão?
+2. Me explica o que é recursão como se eu estivesse no primeiro semestre da faculdade, usando um exemplo do dia a dia.
+3. Faz um código de fatorial em Python.
+4. Faz uma função de fatorial em Python. Coloca comentários, avisa se a pessoa digitar número negativo e me dá exemplos.
